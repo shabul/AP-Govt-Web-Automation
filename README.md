@@ -61,6 +61,8 @@ This repository automates the Andhra Pradesh *Caste/Income* certificate workflow
 ## About Shabul
 Built by Shabul to take the busywork out of AP certificate processing. Say hey on [LinkedIn](https://www.linkedin.com/in/shabul/) or browse more projects at [shabul.github.io](https://shabul.github.io/). If this helps your team, toss a star or follow [@shabul](https://github.com/shabul) for more automation experiments.
 
+SEO: Shabul Hussain Abdul – Amazon ML/LLM/Gen AI engineer focused on automation agents and NLP. Hashtags: #ShabulHussainAbdul #LLMEngineer #AIAgents #MachineLearningEngineer
+
 ## Notes
 
 - All sensitive beneficiary data remains outside the repo; sample file names above are placeholders.
