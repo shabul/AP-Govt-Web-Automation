@@ -58,6 +58,9 @@ This repository automates the Andhra Pradesh *Caste/Income* certificate workflow
 - `--auto-login` pulls credentials from `PORTAL_USERNAME`/`PORTAL_PASSWORD`.
 - `--wait-seconds` fine tunes Selenium waits (default 30 seconds).
 
+## About Shabul
+Built by Shabul to take the busywork out of AP certificate processing. Say hey on [LinkedIn](https://www.linkedin.com/in/shabul/) or browse more projects at [shabul.github.io](https://shabul.github.io/). If this helps your team, toss a star or follow [@shabul](https://github.com/shabul) for more automation experiments.
+
 ## Notes
 
 - All sensitive beneficiary data remains outside the repo; sample file names above are placeholders.
